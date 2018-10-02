@@ -1,0 +1,14 @@
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\Mankalah\Mankalah\Mankalah\obj\Debug\Mankalah.csproj.CoreCompileInputs.cache
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\Mankalah\Mankalah\Mankalah\bin\Debug\Mankalah.exe.config
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\Mankalah\Mankalah\Mankalah\bin\Debug\Mankalah.exe
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\Mankalah\Mankalah\Mankalah\bin\Debug\Mankalah.pdb
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\Mankalah\Mankalah\Mankalah\obj\Debug\Mankalah.exe
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\Mankalah\Mankalah\Mankalah\obj\Debug\Mankalah.pdb
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\Mankalah\Mankalah\Mankalah\obj\Debug\Mankalah.csprojResolveAssemblyReference.cache
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\projects\Mankalah\Mankalah\Mankalah\bin\Debug\Mankalah.exe.config
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\projects\Mankalah\Mankalah\Mankalah\bin\Debug\Mankalah.exe
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\projects\Mankalah\Mankalah\Mankalah\bin\Debug\Mankalah.pdb
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\projects\Mankalah\Mankalah\Mankalah\obj\Debug\Mankalah.csprojResolveAssemblyReference.cache
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\projects\Mankalah\Mankalah\Mankalah\obj\Debug\Mankalah.csproj.CoreCompileInputs.cache
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\projects\Mankalah\Mankalah\Mankalah\obj\Debug\Mankalah.exe
+C:\Users\Ocean\Documents\My Documents\Year 2, 2017 Fall\CS 212\projects\Mankalah\Mankalah\Mankalah\obj\Debug\Mankalah.pdb

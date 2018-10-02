@@ -1,0 +1,28 @@
+C:\Users\Ian\source\repos\Babble\Babble\bin\Debug\Babble.exe.config
+C:\Users\Ian\source\repos\Babble\Babble\bin\Debug\Babble.exe
+C:\Users\Ian\source\repos\Babble\Babble\bin\Debug\Babble.pdb
+C:\Users\Ian\source\repos\Babble\Babble\obj\Debug\Babble.csprojResolveAssemblyReference.cache
+C:\Users\Ian\source\repos\Babble\Babble\obj\Debug\MainWindow.baml
+C:\Users\Ian\source\repos\Babble\Babble\obj\Debug\MainWindow.g.cs
+C:\Users\Ian\source\repos\Babble\Babble\obj\Debug\App.g.cs
+C:\Users\Ian\source\repos\Babble\Babble\obj\Debug\Babble_MarkupCompile.cache
+C:\Users\Ian\source\repos\Babble\Babble\obj\Debug\Babble.g.resources
+C:\Users\Ian\source\repos\Babble\Babble\obj\Debug\Babble.Properties.Resources.resources
+C:\Users\Ian\source\repos\Babble\Babble\obj\Debug\Babble.csproj.GenerateResource.Cache
+C:\Users\Ian\source\repos\Babble\Babble\obj\Debug\Babble.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\Babble\Babble\obj\Debug\Babble.exe
+C:\Users\Ian\source\repos\Babble\Babble\obj\Debug\Babble.pdb
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\bin\Debug\Babble.exe.config
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\bin\Debug\Babble.exe
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\bin\Debug\Babble.pdb
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\obj\Debug\Babble.csprojResolveAssemblyReference.cache
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\obj\Debug\MainWindow.baml
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\obj\Debug\MainWindow.g.cs
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\obj\Debug\App.g.cs
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\obj\Debug\Babble_MarkupCompile.cache
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\obj\Debug\Babble.g.resources
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\obj\Debug\Babble.Properties.Resources.resources
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\obj\Debug\Babble.csproj.GenerateResource.Cache
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\obj\Debug\Babble.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\obj\Debug\Babble.exe
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Babble\Babble\obj\Debug\Babble.pdb

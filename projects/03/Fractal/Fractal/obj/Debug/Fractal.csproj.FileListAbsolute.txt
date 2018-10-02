@@ -1,0 +1,14 @@
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\bin\Debug\Fractal.exe.config
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\bin\Debug\Fractal.exe
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\bin\Debug\Fractal.pdb
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\obj\Debug\Fractal.csprojResolveAssemblyReference.cache
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\obj\Debug\MainWindow.g.cs
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\obj\Debug\App.g.cs
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\obj\Debug\Fractal_MarkupCompile.cache
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\obj\Debug\MainWindow.baml
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\obj\Debug\Fractal.g.resources
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\obj\Debug\Fractal.Properties.Resources.resources
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\obj\Debug\Fractal.csproj.GenerateResource.Cache
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\obj\Debug\Fractal.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\obj\Debug\Fractal.exe
+C:\Users\Ian\Documents\My Documents\Year 2, 2017 Fall\CS 212\Fractal\Fractal\Fractal\obj\Debug\Fractal.pdb

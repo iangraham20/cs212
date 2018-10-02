@@ -1,0 +1,23 @@
+﻿<Window x:Class="SquareNamespace.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Fractal Project" Height="543" Width="863" Loaded="Window_Loaded" WindowStyle="ThreeDBorderWindow">
+    <Grid Background="#FFF4FFD8">
+        <Canvas Height="480" HorizontalAlignment="Left" Margin="193,12,12,0" Name="canvas" VerticalAlignment="Top" Width="640" Background="White" ClipToBounds="True" />
+        <Slider Height="24" HorizontalAlignment="Left" Margin="12,85,0,0" Name="sizeSlider" VerticalAlignment="Top" Width="175" Value="150" Maximum="240" Minimum="10" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="12,151,0,0" Name="reduxSlider" VerticalAlignment="Top" Width="175" Value="1.0325" Maximum="1.15" Minimum="1.0325" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="10,309,0,0" Name="depthSlider" VerticalAlignment="Top" Width="175" Value="10" Maximum="100" Minimum="0" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="12,241,0,0" Name="redSlider" VerticalAlignment="Top" Width="53" Value="0" Maximum="255" Minimum="0" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="76,241,0,0" Name="greenSlider" VerticalAlignment="Top" Width="53" Value="0" Maximum="255" Minimum="0" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="134,241,0,0" Name="blueSlider" VerticalAlignment="Top" Width="53" Value="255" Maximum="255" Minimum="0" />
+        <Button Content="Draw" Height="37" HorizontalAlignment="Left" Margin="41,361,0,0" Name="Button1" VerticalAlignment="Top" Width="101" Click="Button1_Click" />
+        <Label Content="Size" Height="28" Margin="12,57,668,0" Name="label1" VerticalAlignment="Top" HorizontalAlignment="Center" Width="175"/>
+        <Label Content="Redux" Height="28" HorizontalAlignment="Left" Margin="12,123,0,0" Name="label2" VerticalAlignment="Top" Width="175" />
+        <Label Content="Depth" Height="28" HorizontalAlignment="Left" Margin="10,281,0,0" Name="label3" VerticalAlignment="Top" Width="175" />
+        <Label Content="Depth Value: {Binding ElementName=DepthSlider, Path=Value, Converter=stringconverter}" Height="28" HorizontalAlignment="Left" Margin="10,281,0,0" Name="label4" VerticalAlignment="Top" Width="175" />
+        <Label Content="Color" Height="28" HorizontalAlignment="Left" Margin="12,188,0,0" Name="label5" VerticalAlignment="Top" Width="175" />
+        <Label Content="R" Height="28" HorizontalAlignment="Left" Margin="12,213,0,0" Name="label6" VerticalAlignment="Top" Width="53" />
+        <Label Content="G" Height="28" HorizontalAlignment="Left" Margin="76,213,0,0" Name="label7" VerticalAlignment="Top" Width="53" />
+        <Label Content="B" Height="28" HorizontalAlignment="Left" Margin="134,213,0,0" Name="label8" VerticalAlignment="Top" Width="53" />
+    </Grid>
+</Window>
